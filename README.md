@@ -1,17 +1,37 @@
-# mini_katalog
+# Mini Katalog Uygulaması
 
-A new Flutter project.
+Flutter ile geliştirilmiş basit bir ürün katalog uygulaması.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- GridView ile ürün listeleme
+- Ürün detay sayfası
+- Sepete ekleme / çıkarma
+- Sayfa geçişleri (Navigator)
+- StatefulWidget ile state yönetimi
 
-A few resources to get you started if this is your first Flutter project:
+## Kullanılan Teknolojiler
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter 3.41.4
+- Dart
+- material.dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Çalıştırma Adımları
+```bash
+# Bağımlılıkları yükle
+flutter pub get
+
+# Uygulamayı çalıştır
+flutter run
+```
+
+## Ekran Görüntüleri
+
+### Ana Sayfa
+![Ana Sayfa](screenshots/ana_sayfa.png)
+
+### Ürün Detayı
+![Detay](screenshots/detay.png)
+
+### Sepet
+![Sepet](screenshots/sepet.png)
