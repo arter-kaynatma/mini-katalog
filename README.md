@@ -28,10 +28,13 @@ flutter run
 ## Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](screenshots/ana_sayfa.png)
+![Ana Sayfa](flutter%201.png)
 
-### Ürün Detayı
-![Detay](screenshots/detay.png)
+### Ürün Detayı - Sepete Ekle
+![Detay](flutter%202.png)
 
-### Sepet
-![Sepet](screenshots/sepet.png)
+### Ürün Detayı - Sepetten Çıkar
+![Detay2](flutter%203.png)
+
+### Sepetim
+![Sepet](flutter%204.png)
